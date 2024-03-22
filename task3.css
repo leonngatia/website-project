@@ -1,0 +1,65 @@
+body {
+    background-image: url(pexels-photo-1060416.jpeg);
+    background-size: cover;
+    background-repeat: no-repeat;
+
+}
+
+.space {
+    margin-left: 0px;
+    color: darkorange;
+    font-size: 45px;
+    font-weight: bolder;
+}
+
+.one {
+    color: rgb(248, 247, 250);
+    margin-left: 150px;
+    font-size: large;
+}
+
+.two {
+    color: white;
+    margin-left: 100px;
+    font-size: large;
+}
+
+.three {
+    color: white;
+    margin-left: 100px;
+    font-size: large;
+}
+
+.four {
+    color: white;
+    margin-left: 100px;
+    font-size: large;
+}
+
+.five {
+    color: white;
+    margin-left: 100px;
+    font-size: large;
+}
+
+.search {
+    float: right;
+}
+
+p {
+    color: white;
+    margin-top: 200px;
+    margin-left: 50px;
+    font-size: 50px;
+}
+
+
+.orange{color: darkorange;}
+
+.para-one{color: white;
+margin-left: 50px;
+margin-top: 0px;}
+
+button{margin-left: 100px;
+margin-top: 30px;
+border-radius: 5px;}
